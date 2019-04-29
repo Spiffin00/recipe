@@ -1,0 +1,100 @@
+.recipe_bg{
+    background-image: url('recipesans.jpg');
+    background-position: top;
+    background-size:65%;
+    height: 100%;
+
+    }
+
+.history_bg{
+	background-image: url('historysans.jpg');
+    background-position: top;
+    background-size:55%;
+    height: 100%;
+}
+.reviews_bg{
+	background-image: url('reviews.jpg');
+    background-position: top;
+    background-size:55%;
+    height: 100%;
+}
+    .bg-text {
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  font-family:"8bitoperator"
+ }
+ 
+
+
+a:link
+{
+   color: black;
+   text-decoration: none;
+}
+a:visited
+{
+   color: black;
+   text-decoration: none;
+}
+a:hover
+{
+   color: black;
+   text-decoration: none;
+}
+a:active
+{
+   color: black;
+   text-decoration: none;
+}
+.sans-h1
+{
+	font-family:Monster Friend Fore;
+	text-align: center;
+	margin: 70px 0px 70px 0px;
+}
+.sans-h2
+{
+  font-family:Monster Friend Fore;
+  text-align: center;
+  margin: 100px 0px 100px 0px;
+}
+.sans-nav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.cheese_1{
+	font-size:1px;
+	color:white;
+	border-bottom:2px solid black;
+}
+.cheese_2{
+	font-size:1px;
+	color:white;
+	border-top:2px solid black;
+}
+.ul_1{
+  display:inline-block;
+  text-align:left;
+}
+.ul_2{
+  list-style: none;
+}
+ol {
+    display:inline-block;
+  text-align:left;
+  line-height:300%
+}
+.jacket{
+  background-color: #4a81c2 ;
+  padding-bottom: 760px;
+}
+.shirt{
+  background-color: #bdc0c7;
+  padding-bottom: 300px;
+}
+.shirt_ul{
+  line-height:150px;
+  text-align: center;
+}
